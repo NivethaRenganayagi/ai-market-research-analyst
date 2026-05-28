@@ -179,13 +179,20 @@ streamlit run app.py
 # Screenshots
 
 ## Dashboard UI
-(Add screenshot here)
+
+![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/d2.png)
+![Dashboard](screenshots/d3.png)
+![Dashboard](screenshots/d4.png)
+![Dashboard](screenshots/d5.png)
+
 
 ## Visual Analytics
-(Add screenshot here)
+![Charts](screenshots/visual_analytics.png)
+
 
 ## Generated PDF Report
-(Add screenshot here)
+![PDF Report](screenshots/pdf_report.png)
 
 ---
 
