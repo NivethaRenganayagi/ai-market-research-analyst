@@ -2,8 +2,6 @@ streamlit
 langgraph
 langchain
 langchain-community
-crewai
-crewai-tools
 groq
 python-dotenv
 requests
