@@ -1,0 +1,16 @@
+streamlit
+langgraph
+langchain
+langchain-community
+crewai
+crewai-tools
+groq
+python-dotenv
+requests
+beautifulsoup4
+pandas
+matplotlib
+plotly
+reportlab
+tavily-python
+asyncio
